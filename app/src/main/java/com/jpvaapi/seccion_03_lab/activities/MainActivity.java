@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private FruitAdapter adapter;
     private List<Fruit> fruits;
     private int counter = 0;
-    //Test
-    private int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
